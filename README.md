@@ -1,7 +1,7 @@
-# Forum App in React & Redux + Django
+# Hive Tech Wear
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+A convenient and fun way to browse featured clothing & accessories from some of the best clothing brands online, especially aimed at teenagers. With this web app, you can browse products by any color you like or by trending colors, save products into favorites, and share products with friends on social media.
 ```
 
 ## Live Demo
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-hivetechgd.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/hivetechgd/group-development.git
 ```
 
 2. Backend setting
